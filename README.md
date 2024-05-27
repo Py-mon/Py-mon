@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+| Python  | Luau |
+| ------------- | ------------- |
+| ![image](https://github.com/PythonDominator/PythonDominator/assets/102424561/efcd4e15-7189-453c-b207-f5842188ea78) | <img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/5af14ae9-3e75-4f0f-907d-a48ae7061072" width=200 height=200>  |
+
+![image_2024-05-27_182739023-removebg-preview](https://github.com/PythonDominator/PythonDominator/assets/102424561/5af14ae9-3e75-4f0f-907d-a48ae7061072)
 <!--
 **PythonDominator/PythonDominator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
