@@ -18,7 +18,7 @@ Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to m
 <p align="center">
   <a href="https://www.github.com/Py-mon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
   &nbsp;&nbsp;
-  <a href="pymonscripts@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/0724a638-bfaf-493d-9e9a-1422e97e578f" width="36" height="36" alt="Gmail"/></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=pymonscripts@gmail.com&tf=cm" target="_blank" rel="noreferrer"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/0724a638-bfaf-493d-9e9a-1422e97e578f" width="36" height="36" alt="Gmail"/></a>
 </p>
 
 Let me know if you have any questions or if one of my projects helped you with something.
