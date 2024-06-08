@@ -1,30 +1,23 @@
 ## Hi there 👋
 
-Hobbist hoping to make money coding. 
+Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to make money coding. 
 
-Programming for almost 5 years :computer:
+- :bar_chart: Data Scientist &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; • 🌍 I live in the United States
+- :video_game: Game Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; • 🚀 Currently working on a ![School-Scheduler](https://github.com/Py-mon/Scheduler)
+- :drum: Percussionist &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; • 🧠 Want to learn Java, C#, and Godot
 
-- :snake: Python Programmer
-- :pencil: Roblox Scripter
-- :bar_chart: Data Scientist
-- :video_game: Game Developer
-- :drum: Percussionist
+<hr/>
+<img src="https://github.com/Py-mon/Py-mon/assets/102424561/24934638-4ac2-43c8-98dc-f1e0c61e7160" align="left" ><img src="https://github.com/Py-mon/Py-mon/assets/102424561/c651c1c5-9614-4827-ab70-0d56cf2936e9" align="right"><p align="center"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/ce2668b4-cc4e-4da1-b716-deaae672bb67"></p>
 
-Working on restoring my old programming files and publishing them to github. Visit: ![Bulk-Vscode-Restore](https://github.com/PythonDominator/Bulk-Vscode-Restore)
-
-### Languages
-| Python        |           Lua |          Matlab |
-| ------------- | ------------- |------------- |
-| <img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/efcd4e15-7189-453c-b207-f5842188ea78" width=75 height=75> | <img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/05073191-2b6b-4b05-a7ca-a4e48dd5933e" width=75 height=75>  | <img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/487ce263-7f0b-4b64-8f40-e8b5c0e3ca8b)" width=75 height=75> | 
-
-### Python Modules
-| Numpy        |           Matplotlib |          Tkinter |
-| ------------- | ------------- |------------- |
-| <img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/54198fd9-34ec-48ea-99a7-94f97ee874f7" width=75 height=75> | <img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/2e9a5a9c-2042-4a26-8b48-4182447ea988" width=75 height=75>  | <img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/ea4d6246-99f6-46d5-9e74-25068b7e3ffd" width=75 height=75> 
-
-### Learn Next
-| Java        |           C# |          Godot |
-| ------------- | ------------- |------------- |
-| <img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/0e346a37-b66e-4075-942c-0907d02046cf" width=75 height=75> | <img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/63a084ad-1c0a-4297-8788-e00bea6703c2" width=75 height=75>  | <img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/2f7a13e5-0639-44b8-8506-a14fbff4833a" width=75 height=75> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" align="left"/></a>
+<a href="https://luau-lang.org" target="_blank" rel="noreferrer"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/11dcb201-535c-41f6-a9b8-8e76f45729ed" width="36" height="36" alt="Luau" align="left"/></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/487ce263-7f0b-4b64-8f40-e8b5c0e3ca8b" width="36" height="36" alt="Matlab" align="left"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" align="right" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" align="right"/></a>
+<p align="center">
+  <a href="https://www.github.com/Py-mon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+  &nbsp;&nbsp;
+  <a padding=50px href="https://www.github.com/Py-mon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Py-mon/Py-mon/assets/102424561/0724a638-bfaf-493d-9e9a-1422e97e578f" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/Py-mon/Py-mon/assets/102424561/0724a638-bfaf-493d-9e9a-1422e97e578f" /> <img src="https://github.com/Py-mon/Py-mon/assets/102424561/0724a638-bfaf-493d-9e9a-1422e97e578f" width="32" height="32" /> </picture> </a>
+</p>
 
 Let me know if you have any questions or if one of my projects helped you with something.
