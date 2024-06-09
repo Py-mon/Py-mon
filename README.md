@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to make money coding 💸. 
+Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to make money coding 💸
 
 - :bar_chart: Data Scientist &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; • 🤔 Ask me about anything numpy, tkinter, or ascii.
 - :video_game: Game Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; • 🚀 Currently working on a [School-Scheduler](https://github.com/Py-mon/Scheduler)
