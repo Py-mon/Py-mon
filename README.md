@@ -1,21 +1,33 @@
+<!--- Intro Title --> 
 ## Hi there 👋, &emsp; I'm <img src="https://github.com/Py-mon/Py-mon/assets/102424561/928c42c3-fc55-44ae-b80b-94e644bfa6c3" align="center" height="30">
 
+<!--- Coding Experience --> 
 Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to make money coding 💸
 
+<!---          Titles                                                                          What I am doing --> 
 - :bar_chart: Data Scientist &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; • 🤔 Ask me about anything numpy, tkinter, or ascii.
 - :video_game: Game Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; • 🚀 Currently working on a [School-Scheduler](https://github.com/Py-mon/Scheduler)
 - :drum: Percussionist &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; • 🧠 Want to learn Java, C#, and Godot
 
+<!--- Line Break --> 
 ##
 
-<img src="https://github.com/Py-mon/Py-mon/assets/102424561/24934638-4ac2-43c8-98dc-f1e0c61e7160" align="left" width="130" ><img src="https://github.com/Py-mon/Py-mon/assets/102424561/c651c1c5-9614-4827-ab70-0d56cf2936e9" align="right" width="130"><p align="center"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/ce2668b4-cc4e-4da1-b716-deaae672bb67" width="110">
+<!--- Languagues, Socials, and Programs Titles --> 
+<img src="https://github.com/Py-mon/Py-mon/assets/102424561/24934638-4ac2-43c8-98dc-f1e0c61e7160" align="left" width="130" >
+<img src="https://github.com/Py-mon/Py-mon/assets/102424561/c651c1c5-9614-4827-ab70-0d56cf2936e9" align="right" width="130">
+<p align="center"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/ce2668b4-cc4e-4da1-b716-deaae672bb67" width="110"></p>
 
+<!--- Left Align (Languagues) --> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" align="left"/></a>
 <a href="https://luau-lang.org" target="_blank" rel="noreferrer"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/11dcb201-535c-41f6-a9b8-8e76f45729ed" width="36" height="36" alt="Luau" align="left"/></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/487ce263-7f0b-4b64-8f40-e8b5c0e3ca8b" width="36" height="36" alt="Matlab" align="left"/></a>
+
+<!--- Right Align (Programs) --> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" align="right" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" align="right"/></a>
 <a href="https://create.roblox.com" target="_blank" rel="noreferrer"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/04331273-6106-4f34-94b4-494ac0525972" width="36" height="36" alt="Roblox Studio" align="right"/></a>
+
+<!--- Center Align (Socials) --> 
 <p align="center">
   <a href="https://www.github.com/Py-mon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
