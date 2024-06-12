@@ -1,7 +1,48 @@
 <html>
 <head>
-<title>Run my Python files</title>
-<?PHP
-echo shell_exec("python update.py");
-?>
+
+  <title>Run my Python files</title>
+  <style>
+    canvas{
+    border: 1px black solid;
+}
+#textCanvas{
+    display: none;
+}
+  </style>
 </head>
+<body>
+  <canvas id='textCanvas' height=20></canvas>
+  <img id='image'>
+
+  <script>
+    var tCtx = document.getElementById('textCanvas').getContext('2d'), //Hidden canvas
+    imageElem = document.getElementById('image'); //Image element
+
+    console.log('start')
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", "https://api.github.com/users/Py-mon/repos");
+    xhr.send();
+    xhr.responseType = "json";
+    xhr.onload = () => {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+        const data = xhr.response;
+        let total = 0
+  
+        for (let i = 0; i < data.length; i++) {
+            total += data[i]["size"];
+        }
+        let v = String(total / 1000)
+        tCtx.canvas.width = tCtx.measureText(v).width;
+        tCtx.fillText(v, 0, 10);
+        imageElem.src = tCtx.canvas.toDataURL();
+        console.log(imageElem.src);
+
+        console.log(total / 1000);
+    } else {
+        console.log(`Error: ${xhr.status}`);
+    }
+    };
+  </script>
+</body>
+</html>
