@@ -35,4 +35,7 @@ Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to m
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/7e2CkV6Acw" target="_blank" rel="noreferrer"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/7b1130ea-64f8-4218-9a11-308d1ecaa52f" width="36" alt="Gmail"/></a>
 </p>
 
-Let me know if you have any questions or if one of my projects helped you with something 🙂
+<img src="https://github.com/Py-mon/Py-mon/assets/102424561/ec7a0b51-7842-4dba-b58b-0330db6f2028" align="left"><details align="right" > 
+
+<!-- Let me know if you have any questions or if one of my projects helped you with something 🙂
+
