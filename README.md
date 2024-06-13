@@ -36,9 +36,9 @@ Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to m
 </p>
 
 <details align="left">
-  <summary><b>My Coding Story</b></summary>
+  <summary><b>My Programming Journey 📖</b></summary>
   
-##
+### The Beginning
 
 &ensp;&ensp;  My interest and motivation for programming all started with **Excel** and my interest in **Pokémon cards**. From a young age, I was introduced to Excel because my parents owned properties and used it for their business. After learning the basics of Excel, I started to gain knowledge by watching YouTube videos about formulas and how to do certain things. I loved teaching new things I learned to other people (mostly my parents). Watching YouTube videos and understanding Excel formulas helped me on my journey to program.
 
@@ -46,7 +46,7 @@ Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to m
 
 &ensp;&ensp; I continued watching some videos, one being [Tech with Tim](https://www.youtube.com/watch?v=BDi3SD7E6). I never actually downloaded Python at this point, since I only knew a little. The video taught me about `input()`, but also made me think I couldn’t name it whatever I wanted. I thought I had to keep it as `ans = input()`. It took me a while until I figured out that I could name it anything.
 
-&ensp;&ensp; Eventually, I went to my cousin’s house. His older brother showed us the Pokémon game he created in Python. He explained a little about OOP and classes, but I didn’t get any of it. It would take many days and 20+ videos before I fully understood classes. From that day, my goal was to create my own Pokémon game. I emailed my older cousin about loops, I watched a bunch of more YouTube videos and started to create something I would later call [Pybattle](github.com/Py-mon/Pybattle). Now, I am working on a bunch more projects (see below).
+&ensp;&ensp; Eventually, I went to my cousin’s house. His older brother showed us the Pokémon game he created in Python. He explained a little about OOP and classes, but I didn’t get any of it. It would take many days and 20+ videos before I fully understood classes. From that day on, my goal was to create my own Pokémon game. I emailed my older cousin about loops, watched a bunch of more YouTube videos, and started to create something I would later call [Pybattle](github.com/Py-mon/Pybattle). Now, I am working on a bunch more projects (see below).
 
 Thank you for reading! Let me know if you have any questions, advice, or if one of my projects helped you with something 🙂
 </details>
