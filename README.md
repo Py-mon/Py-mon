@@ -38,7 +38,8 @@ Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to m
 <details align="left">
   <summary><b>My Coding Story</b></summary>
   
-#
+##
+
 &ensp;&ensp;  My interest and motivation for programming all started with **Excel** and my interest in **Pokémon cards**. From a young age, I was introduced to Excel because my parents owned properties and used it for their business. After learning the basics of Excel, I started to gain knowledge by watching YouTube videos about formulas and how to do certain things. I loved teaching new things I learned to other people (mostly my parents). Watching YouTube videos and understanding Excel formulas helped me on my journey to program.
 
 &ensp;&ensp;  Since I liked Pokémon, I decided to try to create a game of two Pokémon cards battling each other in Excel. I used some buttons and health numbers. I even added critical hits. However, this was a terrible game, and there were certain things I couldn’t add or fix due to Excel’s limitations. (I didn’t know VBA existed, but that still isn’t the best way to create a game). When I was 10, my cousin came over, and I showed him my progress on my Pokémon game. He said his older brother was working on a Pokémon game using Python. I researched and came across some videos of Python. My first Python video was [CS Dojo](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg&index=1) I learned about variables, and they clicked in my mind, unlocking so many potential ideas. I only knew about Excel formulas at that time, so variables would be very helpful. 
