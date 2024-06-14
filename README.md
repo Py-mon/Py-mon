@@ -37,8 +37,8 @@ Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to m
 
 <details align="left">
   <summary><b>My Programming Journey 📖</b></summary>
-  
-### The Beginning
+
+###
 
 &ensp;&ensp;  My interest and motivation for programming all started with **Excel** and my interest in **Pokémon cards**. From a young age, I was introduced to Excel because my parents owned properties and used it for their business. After learning the basics of Excel, I started to gain knowledge by watching YouTube videos about formulas and how to do certain things. I loved teaching new things I learned to other people (mostly my parents). Watching YouTube videos and understanding Excel formulas helped me on my journey to program.
 
