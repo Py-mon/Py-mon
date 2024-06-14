@@ -46,7 +46,9 @@ Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to m
 
 &ensp;&ensp; I continued watching some videos, one being [Tech with Tim](https://www.youtube.com/watch?v=BDi3SD7E6). I never actually downloaded Python at this point, since I only knew a little. The video taught me about `input()`, but also made me think I couldn’t name it whatever I wanted. I thought I had to keep it as `ans = input()`. It took me a while until I figured out that I could name it anything.
 
-&ensp;&ensp; Eventually, I went to my cousin’s house. His older brother showed us the Pokémon game he created in Python. He explained a little about OOP and classes, but I didn’t get any of it. It would take many days and 20+ videos before I fully understood classes. From that day on, my goal was to create my own Pokémon game. I emailed my older cousin about loops, watched a bunch of more YouTube videos, and started to create something I would later call [Pybattle](github.com/Py-mon/Pybattle). Now, I am working on a bunch more projects (see below).
+&ensp;&ensp; Eventually, I went to my cousin’s house. His older brother showed us the Pokémon game he created in Python. It was a 1v1 battle with a team of Pokemon. He explained a little about OOP and classes, but I didn’t get any of it. It would take many days and many more videos before I fully understood classes. From that day on, my goal was to create my own Pokémon game. I downloaded Python, asked my older cousin questions, and watched a bunch of more YouTube videos. At first I tried to create exactly what my older cousin had made, but I was interested in a game called [Loomain Legacy](https://www.roblox.com/games/306964494/Thunderstorm-Loomian-Legacy). It gave me inspiration to create a larger project with maps and an adventure structure. I would later call my game [Pybattle](github.com/Py-mon/Pybattle). 
+
+&ensp;&ensp; Along the way, I worked on a bunch more projects (see pinned repos).
 
 Thank you for reading! Let me know if you have any questions, advice, or if one of my projects helped you with something 🙂
 </details>
