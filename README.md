@@ -2,7 +2,7 @@
 ## Hi there 👋, &emsp; I'm <img src="https://github.com/Py-mon/Py-mon/assets/102424561/928c42c3-fc55-44ae-b80b-94e644bfa6c3" align="center" height="30">
 
 <!--- Coding Experience --> 
-Programming for almost 5 years :computer: &emsp;&emsp;&emsp; Hobbist hoping to make money coding 💸
+5 years of Experience Programming :computer: &emsp;&emsp; Hobbist hoping to make money coding 💸
 
 <!---          Titles                                                                          What I am doing --> 
 - :video_game: Game Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; • 🚀 Currently working on a [School-Scheduler](https://github.com/Py-mon/Scheduler)
