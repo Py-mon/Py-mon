@@ -2,14 +2,13 @@
 ## Hi there 👋, &emsp; I'm <img src="https://github.com/Py-mon/Py-mon/assets/102424561/928c42c3-fc55-44ae-b80b-94e644bfa6c3" align="center" height="30">
 
 <!--- Coding Experience --> 
-5 years of Experience Programming :computer: &emsp;&emsp; Hobbist hoping to make money coding 💸
+5 years of Experience Programming :computer: &emsp;&emsp; 🚀 Currently working on a [School-Scheduler](https://github.com/Py-mon/Scheduler)
 
 <!---          Titles                                                                          What I am doing --> 
-- :video_game: Game Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; • 🚀 Currently working on a [School-Scheduler](https://github.com/Py-mon/Scheduler)
-- :drum: Drummer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;  • 🧠 Learned Python, Luau, Java
-- :bar_chart: Data Scientist &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; • 🤔 Ask me about anything numpy, tkinter, or text art.
-
-
+- 🎮Game Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; • 📊 Math and Data
+- 📝Roblox Scripter &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; • 🤖Robotics 
+- 🥁Drummer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;  • 🏓Racket Sports
+&nbsp;
 <!--- Languagues, Social Titles --> 
 <img src="https://github.com/Py-mon/Py-mon/assets/102424561/24934638-4ac2-43c8-98dc-f1e0c61e7160" align="left" width="110" >
 <img src="https://github.com/Py-mon/Py-mon/assets/102424561/ce2668b4-cc4e-4da1-b716-deaae672bb67" align="right" width="90">
