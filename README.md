@@ -1,14 +1,3 @@
-<!--- Intro Title --> 
-## Hi there 👋, &emsp; I'm <img src="https://github.com/Py-mon/Py-mon/assets/102424561/928c42c3-fc55-44ae-b80b-94e644bfa6c3" align="center" height="30">
-
-<!--- Coding Experience --> 
-5 years of Experience Programming :computer: &emsp;&emsp; 🚀 Currently working on a [Path-Follower](https://github.com/TeamFrozenCodeFTC/IntoTheDeep-Black-Ice)
-
-<!---          Titles                                                                          What I am doing --> 
-- 🎮Game Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; • 📊 Math and Data
-- 📝Roblox Scripter &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; • 🤖Robotics 
-- 🥁Drummer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;  • 🏓Racket Sports
-&nbsp;
 <!--- Languagues, Social Titles --> 
 <img src="https://github.com/Py-mon/Py-mon/assets/102424561/24934638-4ac2-43c8-98dc-f1e0c61e7160" align="left" width="110" >
 <img src="https://github.com/Py-mon/Py-mon/assets/102424561/ce2668b4-cc4e-4da1-b716-deaae672bb67" align="right" width="90">
@@ -22,7 +11,7 @@
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://github.com/PythonDominator/PythonDominator/assets/102424561/487ce263-7f0b-4b64-8f40-e8b5c0e3ca8b" width="32" height="32" alt="Matlab" align="left"/></a>
 <a href="https://www.java.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg?plain=1" width="32" height="32" alt="Java" align="left"/></a>
 
-  <a href="https://www.github.com/Py-mon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" align="right"/> </picture> </a>
+  <a href="https://www.github.com/jjophoven" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" align="right"/> </picture> </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=pymonscripts@gmail.com&tf=cm" target="_blank" rel="noreferrer"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/0724a638-bfaf-493d-9e9a-1422e97e578f" width="32" height="32" alt="Gmail" align="right"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/7e2CkV6Acw" target="_blank" rel="noreferrer"><img src="https://github.com/Py-mon/Py-mon/assets/102424561/7b1130ea-64f8-4218-9a11-308d1ecaa52f" width="32" alt="Gmail" align="right" /></a>
